@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## About Oka Kurniawan
+Though his first name sounds like a Japanese, Oka was born in Indonesia. He came  to Singapore in 2000 to study Electrical and Electronics Engineering in Nanyang Technological University (NTU), Singapore. After he finished his Bachelor degree, he continued his further study in NTU to obtain his doctoral degree. In the last year of his doctoral degree, he began to work at the Institute of High Performance Computing (IHPC), A\*STAR, Singapore. During his term in IHPC, he was involved with various research projects using computer and numerical methods to solve quantum mechanics, electromagnetics, and plasmonics.  After three and a half year in IHPC, he realized that his passion in teaching has not yet been realised, and so he moved on to School of Mathematics and Science, Singapore Polytechnic, in 2011. After completing his two-year contract, he then decided to join SUTD. While teaching in Singapore Polytechnic, he was also an adjunct lecturer at Digipen Singapore, Singapore Institute of Technology (SIT).
 
-You can use the [editor on GitHub](https://github.com/kurniawano/kurniawano.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Oka led the largest introductory course to Programming at SUTD from the year 2015 to 2020. He was also in charge for an exciting course that teaches students how computer works from basic building blocks like transistors up to its operating systems until 2019. At the present, he is involved in designing and leading a couple of new computing courses for SUTD such as Data Driven World for Freshmore Term 3 elective and Service Design Studio for Design and AI studio course. He has been involved in several educational research involving how to teach computing using games, robots, and recently AR/VR. He was awarded SUTD Teaching Excellence in 2018. Recently, he was recognized internationally as Fellow by Advance HE. Besides his passion in teaching and research, he loves reading books, listening to music, spending time for outdoor activities and with his family.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kurniawano/kurniawano.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Senior Lecturer**
+Information systems Technology and Design
+SUTD - Singapore University of Technology and Design
+DID: (+65) 6499 - 4621
